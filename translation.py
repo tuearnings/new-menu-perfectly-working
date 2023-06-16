@@ -48,9 +48,9 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [Dev](t.me/ask_admin001)
-`📢 Support:` [Talk Bot](https://t.me/ask_admin001)
-`🌐 Source Code:` [GitHub](https://github.com/kevinnadar22/URL-Shortener-V2/)
+`👨‍💻 Developer:` [Dev](t.me/abhi_the_machinegun)
+`📢 Support:` [Talk Bot](https://t.me/tulinks_official)
+`🌐 Source Code:` [GitHub](https://t.me/abhi_the_machinegun)
 """
 
 
