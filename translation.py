@@ -13,10 +13,10 @@ I'll handle the rest and get those links shortened or converted in a short time!
 
 START_MESSAGE = """Hi there {} 
 
-Send me a link or post and I'll shorten it for you!
+To add or update your tulinks shortner api see example 👇👇
 
-To learn more about what I can do, just type /help.
-
+Example 👉  /shortener_api 6LZq851sXofffPHugiKQq
+footer & header feature also available
 Method: {}
 Shortener website: {}
 """
