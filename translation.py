@@ -16,7 +16,7 @@ START_MESSAGE = """Hi there {}
 To add or update your tulinks shortner api see example 👇👇
 
 Example 👉  /shortener_api 6LZq851sXofffPHugiKQq
-footer & header feature also available
+For adding footer write your footer text and then reply your footer text with /footer
 Method: {}
 Shortener website: {}
 """
