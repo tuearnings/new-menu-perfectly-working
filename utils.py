@@ -390,7 +390,7 @@ async def set_commands(app):
         BotCommand("username", "Sets the username to replace others."),
         BotCommand("banner_image", "Sets the banner image."),
         BotCommand("me", "Displays information about the bot."),
-        BotCommand("base_site", "Changes the base site."),
+        BotCommand("start", "Changes the base site."),
         BotCommand("include_domain", "Sets the included domain."),
         BotCommand("exclude_domain", "Sets the excluded domain."),
         BotCommand("stats", "Displays statistics of the server and bot."),
