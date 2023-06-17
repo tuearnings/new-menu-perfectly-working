@@ -31,15 +31,15 @@ user_commands = [
     "me",
 ]
 avl_web = [
-    "droplink.co",
-    "gplinks.in",
-    "tnlink.in",
-    "za.gl",
-    "du-link.in",
-    "viplink.in",
-    "shorturllink.in",
-    "shareus.in",
-    "earnspace.in",
+    "tulinks.one",
+    "tulinks.one",
+    "tulinks.one",
+    "tulinks.one",
+    "tulinks.one",
+    "tulinks.one",
+    "tulinks.one",
+    "tulinks.one",
+    "tulinks.one",
 ]
 
 avl_web1 = "".join(f"- {i}\n" for i in avl_web)
